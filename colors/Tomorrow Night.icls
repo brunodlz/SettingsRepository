@@ -575,6 +575,11 @@
         <option name="FOREGROUND" value="fec254" />
       </value>
     </option>
+    <option name="SWIFT_ENUM_VALUE">
+      <value>
+        <option name="FOREGROUND" value="de935f" />
+      </value>
+    </option>
     <option name="SWIFT_EXTERNAL_PARAMETER">
       <value />
     </option>
@@ -585,7 +590,7 @@
     </option>
     <option name="SWIFT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="bf83c1" />
+        <option name="FOREGROUND" value="cc8fce" />
       </value>
     </option>
     <option name="SWIFT_NESTED_FUNCTION">
