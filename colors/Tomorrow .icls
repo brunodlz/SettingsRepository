@@ -1,0 +1,73 @@
+<scheme name="Tomorrow " version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-11-02T23:25:16</property>
+    <property name="ide">AppCode</property>
+    <property name="ideVersion">2017.2.6.0.0</property>
+    <property name="modified">2017-11-02T23:39:27</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="OC.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="SWIFT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="fec254" />
+      </value>
+    </option>
+    <option name="SWIFT_COLON">
+      <value />
+    </option>
+    <option name="SWIFT_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="ec5f67" />
+      </value>
+    </option>
+    <option name="SWIFT_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="5486c0" />
+      </value>
+    </option>
+    <option name="SWIFT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ec5f67" />
+      </value>
+    </option>
+    <option name="SWIFT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="bf83c1" />
+      </value>
+    </option>
+    <option name="SWIFT_MODULE_NAME">
+      <value />
+    </option>
+    <option name="SWIFT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="f57d46" />
+      </value>
+    </option>
+    <option name="SWIFT_PROPERTY">
+      <value />
+    </option>
+    <option name="SWIFT_PROTOCOL_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="ec5f67" />
+      </value>
+    </option>
+    <option name="SWIFT_SELF_SUPER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc8fce" />
+      </value>
+    </option>
+    <option name="SWIFT_STRING">
+      <value>
+        <option name="FOREGROUND" value="89c387" />
+      </value>
+    </option>
+    <option name="SWIFT_STRUCT_REFERENCE">
+      <value />
+    </option>
+  </attributes>
+</scheme>
