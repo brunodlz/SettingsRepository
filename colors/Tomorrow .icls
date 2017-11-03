@@ -3,13 +3,70 @@
     <property name="created">2017-11-02T23:25:16</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2017-11-02T23:39:27</property>
+    <property name="modified">2017-11-03T00:05:23</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="OC.CLASS_REFERENCE">
+      <value />
+    </option>
+    <option name="OC.CONDITIONALLY_NOT_COMPILED">
+      <value>
+        <option name="FOREGROUND" value="88bb75" />
+      </value>
+    </option>
+    <option name="OC.DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="bf83c1" />
+      </value>
+    </option>
+    <option name="OC.ENUM_CONST">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="OC.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="8a2bb" />
+      </value>
+    </option>
+    <option name="OC.GENERIC_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ec5f67" />
+      </value>
+    </option>
+    <option name="OC.HEADER_PATH">
+      <value>
+        <option name="FOREGROUND" value="fec254" />
+      </value>
+    </option>
     <option name="OC.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc7832" />
+        <option name="FOREGROUND" value="cc8fce" />
+      </value>
+    </option>
+    <option name="OC.MACRONAME">
+      <value />
+    </option>
+    <option name="OC.MESSAGE_ARGUMENT">
+      <value />
+    </option>
+    <option name="OC.PROPERTY">
+      <value />
+    </option>
+    <option name="OC.STRING">
+      <value>
+        <option name="FOREGROUND" value="88bb75" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="ec5f67" />
+      </value>
+    </option>
+    <option name="SWIFT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="878787" />
       </value>
     </option>
     <option name="SWIFT_CLASS_REFERENCE">
@@ -23,6 +80,11 @@
     <option name="SWIFT_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="ec5f67" />
+      </value>
+    </option>
+    <option name="SWIFT_ENUM_VALUE">
+      <value>
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SWIFT_FUNCTION">
@@ -40,6 +102,16 @@
         <option name="FOREGROUND" value="bf83c1" />
       </value>
     </option>
+    <option name="SWIFT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="878787" />
+      </value>
+    </option>
+    <option name="SWIFT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="SWIFT_MODULE_NAME">
       <value />
     </option>
@@ -49,7 +121,9 @@
       </value>
     </option>
     <option name="SWIFT_PROPERTY">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="b2b2b2" />
+      </value>
     </option>
     <option name="SWIFT_PROTOCOL_REFERENCE">
       <value>
@@ -61,13 +135,20 @@
         <option name="FOREGROUND" value="cc8fce" />
       </value>
     </option>
+    <option name="SWIFT_SHEBANG_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="878787" />
+      </value>
+    </option>
     <option name="SWIFT_STRING">
       <value>
         <option name="FOREGROUND" value="89c387" />
       </value>
     </option>
     <option name="SWIFT_STRUCT_REFERENCE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ec5f67" />
+      </value>
     </option>
   </attributes>
 </scheme>
